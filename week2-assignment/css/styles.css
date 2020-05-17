@@ -6,6 +6,8 @@ h1{
 	text-align:center;
 	font-family:"Times" "serif";
 	margin-bottom:90px;
+	font-size:50px;
+	font-family: Helvetica;
 }
 
 
@@ -35,8 +37,9 @@ section{
 p{
 
 	padding:40px 15px 15px 15px;
-	font-family:"Times New Roman", "Times", "Serif";
+	font-family: monospace, Courier, "Lucida Console";
 	font-size:16px;
+	
 }
 
 .row{
