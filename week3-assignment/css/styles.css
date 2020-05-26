@@ -1,0 +1,72 @@
+body{
+	font-size:16px;
+}
+
+/* Start of header */
+#header-nav{
+	background-color: #7952b3;
+	border-radius:0;
+	border:0;
+	padding:auto;
+}
+
+.navbar-brand{
+	padding-top: 20px;
+	padding-bottom: 45px;
+
+}
+
+.navbar-brand h1{
+    color: #ffffff;
+	font-size:1.9em;
+  	font-weight: bold;
+  	text-shadow: 1px 1px 1px #222;
+  	margin-top: 0;
+  	margin-bottom: 0;
+  	padding:auto 15px auto 0;
+  	line-height: .75;
+  	
+}
+.container{
+	margin-right: 0;
+	margin-left:0;
+}
+
+/* End of Header */
+
+#menu-title{
+	font-size:2em;
+	font-weight:bold;
+}
+
+.Chicken,.Beef,.Sushi{
+	background-color:#99ff99;
+	border:1px solid black;
+}
+
+h3{
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+.item-description{
+	padding:5px 15px;
+	font-family:Palatino Linotype;
+	font-size:18px;
+}
+
+.row{
+	
+	margin:20px auto 20px auto ;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color:#ffffff;
+	font-size:20px;
+}
+
+#menu-item:hover{
+	background-color: white;
+}
+
+
